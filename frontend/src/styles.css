@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+html,
+body {
+  height: 100%;
+  font-family: 'Playfair Display', serif !important;
+}
+
+body {
+  margin: 0;
+  background-color: #f5f7f8;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.mat-card{
+  font-family: 'Playfair Display', serif !important;
+}
